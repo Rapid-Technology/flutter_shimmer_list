@@ -1,4 +1,4 @@
-# flutter_shimmer_list
+# Flutter Shimmer List
 
 A new Flutter project.
 
