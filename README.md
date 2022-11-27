@@ -1,6 +1,6 @@
 # Flutter Shimmer List
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/zH9e08XA_W0/maxresdefault.jpg)](https://www.youtube.com/watch?v=zH9e08XA_W0)
 
 ## Getting Started
 
